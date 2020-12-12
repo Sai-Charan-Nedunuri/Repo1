@@ -1,5 +1,5 @@
 # TicTacToe
-TicTacToe game, as part of understanding Object Oriented Analysis and Design, was designed in Java.
+TicTacToe game, as part of understanding Object Oriented Analysis and Design Course, was designed in Java.
 
 # FEATURES:
 * [x] Simpler Design.
@@ -7,7 +7,7 @@ TicTacToe game, as part of understanding Object Oriented Analysis and Design, wa
 
 # REQUIREMENTS:
 * [x] Java IDE
-* [x] Stable Internet Connection.
+
 
 # LIBRARIES USED
 * [x] Java Swing
