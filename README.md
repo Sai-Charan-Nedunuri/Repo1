@@ -22,4 +22,4 @@ If you want to contribute to this project and make it better with new ideas, you
 If you find any issue just put it in the repository issue section, thank you.
 
 
-<img src="TicTacToe/Use%20 Case.png">
+<img src="TicTacToe/Use Case.png">
